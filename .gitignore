@@ -1,0 +1,7 @@
+*.DS_Store
+resume_build_commands.md
+AGENTS.md
+*.sh
+*.tex
+reference.docx
+Raw Data/

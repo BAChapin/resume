@@ -1,6 +1,6 @@
 # Brett Chapin  
 Columbia City, IN  
-Phone: +1 (260) 388-9483 • Email: brett.chapin89@gmail.com  
+Phone: +1 (260) 388-9483 • Email: bachapin@proton.me  
 GitHub: [BAChapin](https://github.com/BAChapin) • LinkedIn: [bachapin](https://linkedin.com/in/bachapin) • Website: [bachapin.me](https://bachapin.me)  
 
 ---

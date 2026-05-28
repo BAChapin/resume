@@ -7,7 +7,7 @@ GitHub: [BAChapin](https://github.com/BAChapin) • LinkedIn: [bachapin](https:/
 
 ## Summary
 
-Senior iOS Engineer with 9+ years of experience building scalable production applications using Swift, SwiftUI, UIKit, Combine, and modern Apple platform APIs. Delivered mobile products supporting 1M+ downloads, 500k+ users, and 7,500+ locations, with strong ownership across architecture, observability, performance, release validation, and backend-integrated mobile systems.
+I’m a self-taught software engineer with nearly a decade of experience specializing in iOS development, with additional expertise across backend systems, CI/CD pipelines, analytics, and cross-platform technologies. I’ve contributed to enterprise-scale mobile applications, improved developer workflows and build infrastructure, and worked across the full software lifecycle in collaborative engineering environments. While my background is rooted in mobile engineering, I’m actively expanding into full-stack development with growing experience in backend services, APIs, databases, and infrastructure. I’m passionate about building thoughtful, high-quality software that balances technical excellence, maintainability, and user experience.
 
 ---
 
@@ -22,52 +22,52 @@ Senior iOS Engineer with 9+ years of experience building scalable production app
 ## Professional Experience
 
 ### Senior Software Engineer — Sweetwater  
-Jul 2025 – Present
+*Jul 2025 – Present*
 
-- Built Firebase observability into customer-facing listing flows, validating iOS and Android CAL logging coverage and improving visibility into funnel behavior, production issues, and revenue-adjacent marketplace workflows.
-- Shipped fixes across listing, review, and Photo Studio workflows, resolving preview sizing, focus-state, validation, workflow-state, logging, and hotfix release issues while coordinating QA and tagging.
-- Led an iOS performance and navigation investigation, profiling runtime behavior, tracing architectural inefficiencies, and creating `10+` follow-up stories for the broader mobile team.
-- Validated macOS compatibility across `Water Calls`, `PhoneBook`, and `Insignia`, documenting OS-upgrade defects and creating remediation work for internal desktop users.
-- Built API-backed `BluePrint` integrations for internal desktop clients, creating a Swift package client, replacing legacy auth with a Swift actor and `URLSession`, and fixing decoding, auth, environment, and future-pricing parity issues.
+At Sweetwater, I work on both the customer-facing Sweetwater app and internal applications used by colleagues across catalog, pricing, photo, and product-information workflows. I have improved the external app through marketplace, listing, observability, release, and performance work, while also building requested features and quality-of-life improvements for internal tools that collect product data for Adobe InDesign catalogs, support product photo editing and image-database uploads, and automatically prepare robotic camera programs for specific product types. I also helped modernize older Objective-C and Swift-backed backend systems into maintainable .NET services, partnered with another team to reduce CI build and test tasks from about `15` minutes to about `7`, and integrated AI-assisted engineering practices into my day-to-day workflow to speed up investigation, implementation, and documentation.
+
+
+**Technologies:** Swift, SwiftUI, Swift Package Manager, Swift actors, URLSession, Firebase Analytics, GitLab CI/CD, Fastlane, Vault, k6, .NET APIs, REST, AI-assisted engineering, macOS validation
 
 ---
 
 ### iOS Software Engineer — Dexian (bp, earnify)  
-May 2023 – Nov 2024
+*May 2023 – Nov 2024*
 
-- Built features for `earnify`, a server-driven iOS app for bp customers supporting `7,500+` locations, `500k+` registered users, and `1M+` downloads.
-- Implemented VIPER-like architecture with UIKit and Combine and integrated gRPC services with a Go backend, improving modularity, maintainability, and scalable backend communication.
-- Strengthened release quality with unit tests, UI snapshot coverage, peer reviews, Azure CI/CD delivery to TestFlight, and release notes generated from git history.
-- Improved distributed team execution by facilitating scrum ceremonies, demoing features, and coordinating across stakeholders and time zones.
+At Dexian, I built and maintained features for bp's `earnify` iOS app, a fuel-and-rewards product serving customers across `7,500+` locations with `500k+` registered users and `1M+` downloads. I helped the team deliver reliable app experiences at scale through modular feature development, stronger release quality, automated delivery, and clear coordination across distributed teammates and stakeholders.
+
+
+**Technologies:** Swift, UIKit, Combine, VIPER-style architecture, Server-Driven UI, gRPC, Go-backed services, Azure CI/CD, TestFlight, unit tests, UI snapshot tests
 
 ---
 
 ### Mobile Developer — Rural Sourcing Inc. (Sparq)  
-Oct 2020 – Jan 2023
+*Oct 2020 – Jan 2023*
 
-- Built cross-platform features for `Pocket Geek Home+Smart` at Assurant Labs, ramping quickly into React Native and TypeScript to deliver dynamic mobile UI backed by REST JSON APIs.
-- Designed a Swift wrapper SDK for `Pocket Geek Hardware Tests`, improving developer experience over a private SDK; created reusable abstractions, added unit tests, improved documentation, and supported Fastlane-based CI/CD delivery.
-- Built `Fort Wayne Street Art` with SwiftUI, Codable, Firebase Storage/Auth, and Swift Package Manager, and built `Roll Call` with SwiftUI, Vapor, and PostgreSQL for real-time safety workflows.
-- Integrated Firebase services, REST APIs, and backend-driven features across mobile products while contributing through peer reviews, retrospectives, stakeholder demos, and iterative delivery.
+At Rural Sourcing / Sparq, I delivered mobile products for Assurant Labs, civic users, and safety-focused stakeholders. That included building cross-platform customer features, creating a Swift wrapper that made hardware-test integrations easier for other developers, and shipping SwiftUI apps that helped people explore public art and respond to real-time safety information.
+
+
+**Technologies:** Swift, SwiftUI, React Native, TypeScript, REST APIs, JSON, Firebase Storage, Firebase Auth, Codable, Swift Package Manager, Vapor, PostgreSQL, Fastlane, unit tests
 
 ---
 
 ### Lead iOS Engineer — Real Epic Development Studios  
-Oct 2019 – Jun 2020
+*Oct 2019 – Jun 2020*
 
-- Led development of `Flash` for TPCM USA, a real-time safety communication app supporting urgent voice, video, messaging, and notification workflows.
-- Integrated Agora.io for VoIP and video, Firebase and Firestore for authentication, storage, notifications, and chat, and custom UIKit interfaces with live snapshot listener updates.
-- Implemented PushKit and CallKit for native VoIP call experiences, improving reliability and reducing friction in the product’s core communication flow.
-- Collaborated with stakeholders to refine requirements, distribute TestFlight builds, collect feedback, and deliver iterative production improvements.
+At Real Epic Development Studios, I led iOS development for `Flash`, a real-time safety communication app for TPCM USA. I helped shape a dedicated product for urgent voice, video, messaging, and notification workflows while working directly with stakeholders on requirements, TestFlight builds, and iterative product improvements.
+
+
+**Technologies:** Swift, UIKit, Agora.io, VoIP, PushKit, CallKit, Firebase, Firestore, snapshot listeners, TestFlight
 
 ---
 
 ### iOS Software Developer — Self-Employed  
-Apr 2017 – Oct 2019
+*Apr 2017 – Oct 2019*
 
-- Designed and launched `Achieve` / `Achieve Life`, a habit-tracking application from concept to App Store release.
-- Built habit creation, daily, weekly, and monthly goal tracking, CoreData persistence, local notifications, and progress visualization using third-party graphing libraries delivered through CocoaPods.
-- Expanded the product after launch with updates, refactoring, and continued feature iteration, including earlier companion Apple Watch work.
+As a self-employed iOS developer, I designed, built, and launched `Achieve` / `Achieve Life`, a habit-tracking app for people working toward daily, weekly, and monthly goals. I took the product from concept to App Store release, then continued improving it through updates, refactoring, feature iteration, and earlier companion Apple Watch work.
+
+
+**Technologies:** Swift, UIKit, CoreData, local notifications, CocoaPods, third-party charting libraries, App Store release workflows, Apple Watch
 
 ---
 
